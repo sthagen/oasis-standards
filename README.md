@@ -25,4 +25,4 @@ The formats in scope of the project are:
  
  Bootstrapping is focusing on Excel(tm) XSLX format only.
  
- Note: The default branch is `default` :wink:
+ **Note**: The default branch is `default`.
